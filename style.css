@@ -1,4 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@300&display=swap');
+
 html, body {
   height: 100%;
   width: 100%;
+}
+.fundo{
+ background-color: 
+#0d1b30; 
+}
+.caixa{
+  background-color: #13294a;
+  height: 500px;
+  width: 15%;
+  position: relative;
+  margin-top: 100px;
+  left: 40%;
+  border-radius: 10px;
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.image{
+  width:80% ;
+  height:200px;
+  margin: 10%;
+  margin-bottom: 1px;
+  border-radius: 30px;
+}
+h3{
+  color: white;
+}
+.texts{
+  margin-left: 25px;
+}
+h4{
+  color: grey;
+}
+.diamante{
+  width: 15px;
+  height: 20px;
+}
+label{
+  color: #4879db;
+}
+
+.gb{
+  font-family: 'Noto Serif HK', serif;
+  transition: 1s;
+}
+
+.gb:hover{
+  color: #00ffe1;
+  transition: 1s
+}
+
+.relogio{
+  margin-top: 10px;
+  margin
+  width: 25px;
+  height: 25px;
+  position: relative;
+  left: 70px;
+}
+.label2{
+  color: grey;
+   position: relative;
+  left: 70px;
+}
+
+.rodape{
+  margin-top: 50px;
+  border-top: solid grey 1px;
+  width: 210px;
+}
+h5{
+  color: grey;
+}
+
+.t1:hover{
+  color: #00ffe1;
+  transition: 1s;
+  
+}
+
+.t1{
+  font-family: 'Noto Serif HK', serif;
+
+}
+.t2{
+  font-family: 'Noto Serif HK', serif;
 }
